@@ -1,2 +1,2 @@
 # _3x8_
-L'outil vous libère de la charge mentale de l'organisation.
+L'outil qui vous libère de la charge mentale de l'organisation.
